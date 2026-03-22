@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harish
-- 👀 I’m interested in Data Analytics, Cloud, and Trading in Capital Markets !!
-- 🌱 I’m currently pursuing Masters in Data Analytics.
-- 💞️ I’m looking to collaborate on Data Analytics projects.
+- 👀 I’m interested in Data Science, Cloud, and Quantitative Trading in Capital Markets !!
+- 🌱 I’m currently working as a Data Scientist.
+- 💞️ I’m looking to collaborate on Data Science & Quant projects.
 - 📫 reach me at harishbodasinghi634@gmail.com or LinkedIn ( https://www.linkedin.com/in/harishbodasinghi/ )
 
 <!---
